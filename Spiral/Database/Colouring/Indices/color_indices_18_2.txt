@@ -1,0 +1,19 @@
+TX_index: 95371
+colorA_18_2.json; NodeID: 2; Index: 0
+colorB_18_2.json; NodeID: 89378; Index: 21193
+colorC_18_2.json; NodeID: 2793; Index: 10696
+colorD_18_2.json; NodeID: 11172; Index: 6628
+colorE_18_2.json; NodeID: 5; Index: 0
+colorF_18_2.json; NodeID: 43; Index: 9103
+colorG_18_2.json; NodeID: 10; Index: 7282
+colorH_18_2.json; NodeID: 357514; Index: 10531
+colorI_18_2.json; NodeID: 21; Index: 7281
+colorJ_18_2.json; NodeID: 22344; Index: 10269
+colorK_18_2.json; NodeID: 5586; Index: 10269
+colorL_18_2.json; NodeID: 349; Index: 10468
+colorM_18_2.json; NodeID: 44689; Index: 13882
+colorN_18_2.json; NodeID: 87; Index: 10013
+colorO_18_2.json; NodeID: 698; Index: 10580
+colorP_18_2.json; NodeID: 1396; Index: 10582
+colorQ_18_2.json; NodeID: 178757; Index: 10277
+colorR_18_2.json; NodeID: 174; Index: 10468

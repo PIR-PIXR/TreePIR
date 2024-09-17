@@ -1,0 +1,19 @@
+TX_index: 2685
+PBC1_12_2.json; NodeID: 26; index: 3
+PBC2_12_2.json; NodeID: 52; index: 8
+PBC3_12_2.json; NodeID: -1; index: 18446744073709551615
+PBC4_12_2.json; NodeID: 6780; index: 1125
+PBC5_12_2.json; NodeID: -1; index: 18446744073709551615
+PBC6_12_2.json; NodeID: 6; index: 1
+PBC7_12_2.json; NodeID: 3390; index: 541
+PBC8_12_2.json; NodeID: 211; index: 40
+PBC9_12_2.json; NodeID: -1; index: 18446744073709551615
+PBC10_12_2.json; NodeID: 13; index: 1
+PBC11_12_2.json; NodeID: 847; index: 144
+PBC12_12_2.json; NodeID: 3; index: 1
+PBC13_12_2.json; NodeID: -1; index: 18446744073709551615
+PBC14_12_2.json; NodeID: 1695; index: 285
+PBC15_12_2.json; NodeID: -1; index: 18446744073709551615
+PBC16_12_2.json; NodeID: 423; index: 76
+PBC17_12_2.json; NodeID: 105; index: 16
+PBC18_12_2.json; NodeID: -1; index: 18446744073709551615

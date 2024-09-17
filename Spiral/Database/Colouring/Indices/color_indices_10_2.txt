@@ -1,0 +1,11 @@
+TX_index: 497
+colorA_10_2.json; NodeID: 2; Index: 0
+colorB_10_2.json; NodeID: 190; Index: 198
+colorC_10_2.json; NodeID: 1520; Index: 98
+colorD_10_2.json; NodeID: 5; Index: 0
+colorE_10_2.json; NodeID: 380; Index: 95
+colorF_10_2.json; NodeID: 760; Index: 92
+colorG_10_2.json; NodeID: 11; Index: 51
+colorH_10_2.json; NodeID: 23; Index: 77
+colorI_10_2.json; NodeID: 95; Index: 90
+colorJ_10_2.json; NodeID: 47; Index: 90

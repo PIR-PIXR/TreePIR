@@ -1,0 +1,13 @@
+TX_index: 2685
+colorA_12_2.json; NodeID: 847; Index: 209
+colorB_12_2.json; NodeID: 3; Index: 0
+colorC_12_2.json; NodeID: 6; Index: 341
+colorD_12_2.json; NodeID: 3390; Index: 551
+colorE_12_2.json; NodeID: 211; Index: 448
+colorF_12_2.json; NodeID: 1695; Index: 379
+colorG_12_2.json; NodeID: 105; Index: 426
+colorH_12_2.json; NodeID: 13; Index: 342
+colorI_12_2.json; NodeID: 52; Index: 427
+colorJ_12_2.json; NodeID: 423; Index: 460
+colorK_12_2.json; NodeID: 6780; Index: 445
+colorL_12_2.json; NodeID: 26; Index: 427

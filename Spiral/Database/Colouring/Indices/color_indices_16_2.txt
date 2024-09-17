@@ -1,0 +1,17 @@
+TX_index: 4891
+colorA_16_2.json; NodeID: 2; Index: 0
+colorB_16_2.json; NodeID: 4401; Index: 1217
+colorC_16_2.json; NodeID: 4; Index: 0
+colorD_16_2.json; NodeID: 8803; Index: 1226
+colorE_16_2.json; NodeID: 8; Index: 0
+colorF_16_2.json; NodeID: 35213; Index: 1218
+colorG_16_2.json; NodeID: 2200; Index: 193
+colorH_16_2.json; NodeID: 17; Index: 0
+colorI_16_2.json; NodeID: 34; Index: 512
+colorJ_16_2.json; NodeID: 1100; Index: 704
+colorK_16_2.json; NodeID: 68; Index: 512
+colorL_16_2.json; NodeID: 17606; Index: 716
+colorM_16_2.json; NodeID: 70426; Index: 592
+colorN_16_2.json; NodeID: 137; Index: 512
+colorO_16_2.json; NodeID: 550; Index: 577
+colorP_16_2.json; NodeID: 275; Index: 576
