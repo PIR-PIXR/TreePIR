@@ -1,0 +1,110 @@
+TX_index: 497
+colorA_10_2.json; NodeID: 2; Index: 0
+colorB_10_2.json; NodeID: 190; Index: 198
+colorC_10_2.json; NodeID: 1520; Index: 98
+colorD_10_2.json; NodeID: 5; Index: 0
+colorE_10_2.json; NodeID: 380; Index: 95
+colorF_10_2.json; NodeID: 760; Index: 92
+colorG_10_2.json; NodeID: 11; Index: 51
+colorH_10_2.json; NodeID: 23; Index: 77
+colorI_10_2.json; NodeID: 95; Index: 90
+colorJ_10_2.json; NodeID: 47; Index: 90
+TX_index: 259
+colorA_10_2.json; NodeID: 2; Index: 0
+colorB_10_2.json; NodeID: 320; Index: 103
+colorC_10_2.json; NodeID: 160; Index: 1
+colorD_10_2.json; NodeID: 5; Index: 0
+colorE_10_2.json; NodeID: 10; Index: 51
+colorF_10_2.json; NodeID: 40; Index: 51
+colorG_10_2.json; NodeID: 641; Index: 54
+colorH_10_2.json; NodeID: 20; Index: 52
+colorI_10_2.json; NodeID: 1282; Index: 56
+colorJ_10_2.json; NodeID: 80; Index: 52
+TX_index: 784
+colorA_10_2.json; NodeID: 903; Index: 109
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 451; Index: 104
+colorD_10_2.json; NodeID: 7; Index: 102
+colorE_10_2.json; NodeID: 56; Index: 153
+colorF_10_2.json; NodeID: 14; Index: 154
+colorG_10_2.json; NodeID: 28; Index: 154
+colorH_10_2.json; NodeID: 1807; Index: 166
+colorI_10_2.json; NodeID: 112; Index: 154
+colorJ_10_2.json; NodeID: 225; Index: 155
+TX_index: 612
+colorA_10_2.json; NodeID: 204; Index: 40
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 6; Index: 102
+colorD_10_2.json; NodeID: 408; Index: 141
+colorE_10_2.json; NodeID: 817; Index: 117
+colorF_10_2.json; NodeID: 12; Index: 103
+colorG_10_2.json; NodeID: 51; Index: 115
+colorH_10_2.json; NodeID: 1635; Index: 146
+colorI_10_2.json; NodeID: 25; Index: 102
+colorJ_10_2.json; NodeID: 102; Index: 117
+TX_index: 710
+colorA_10_2.json; NodeID: 866; Index: 78
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 6; Index: 102
+colorD_10_2.json; NodeID: 433; Index: 180
+colorE_10_2.json; NodeID: 27; Index: 127
+colorF_10_2.json; NodeID: 216; Index: 129
+colorG_10_2.json; NodeID: 108; Index: 142
+colorH_10_2.json; NodeID: 13; Index: 103
+colorI_10_2.json; NodeID: 54; Index: 140
+colorJ_10_2.json; NodeID: 1733; Index: 135
+TX_index: 579
+colorA_10_2.json; NodeID: 1602; Index: 31
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 6; Index: 102
+colorD_10_2.json; NodeID: 400; Index: 128
+colorE_10_2.json; NodeID: 801; Index: 105
+colorF_10_2.json; NodeID: 12; Index: 103
+colorG_10_2.json; NodeID: 100; Index: 116
+colorH_10_2.json; NodeID: 200; Index: 129
+colorI_10_2.json; NodeID: 25; Index: 102
+colorJ_10_2.json; NodeID: 50; Index: 116
+TX_index: 189
+colorA_10_2.json; NodeID: 2; Index: 0
+colorB_10_2.json; NodeID: 303; Index: 72
+colorC_10_2.json; NodeID: 4; Index: 0
+colorD_10_2.json; NodeID: 151; Index: 71
+colorE_10_2.json; NodeID: 606; Index: 24
+colorF_10_2.json; NodeID: 75; Index: 39
+colorG_10_2.json; NodeID: 9; Index: 0
+colorH_10_2.json; NodeID: 37; Index: 26
+colorI_10_2.json; NodeID: 18; Index: 26
+colorJ_10_2.json; NodeID: 1212; Index: 34
+TX_index: 703
+colorA_10_2.json; NodeID: 431; Index: 72
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 6; Index: 102
+colorD_10_2.json; NodeID: 215; Index: 173
+colorE_10_2.json; NodeID: 107; Index: 141
+colorF_10_2.json; NodeID: 863; Index: 128
+colorG_10_2.json; NodeID: 53; Index: 128
+colorH_10_2.json; NodeID: 13; Index: 103
+colorI_10_2.json; NodeID: 1726; Index: 138
+colorJ_10_2.json; NodeID: 26; Index: 129
+TX_index: 794
+colorA_10_2.json; NodeID: 227; Index: 110
+colorB_10_2.json; NodeID: 3; Index: 0
+colorC_10_2.json; NodeID: 1817; Index: 112
+colorD_10_2.json; NodeID: 7; Index: 102
+colorE_10_2.json; NodeID: 56; Index: 153
+colorF_10_2.json; NodeID: 14; Index: 154
+colorG_10_2.json; NodeID: 28; Index: 154
+colorH_10_2.json; NodeID: 113; Index: 155
+colorI_10_2.json; NodeID: 908; Index: 160
+colorJ_10_2.json; NodeID: 454; Index: 165
+TX_index: 404
+colorA_10_2.json; NodeID: 2; Index: 0
+colorB_10_2.json; NodeID: 178; Index: 160
+colorC_10_2.json; NodeID: 1427; Index: 63
+colorD_10_2.json; NodeID: 5; Index: 0
+colorE_10_2.json; NodeID: 89; Index: 52
+colorF_10_2.json; NodeID: 44; Index: 77
+colorG_10_2.json; NodeID: 11; Index: 51
+colorH_10_2.json; NodeID: 356; Index: 84
+colorI_10_2.json; NodeID: 22; Index: 77
+colorJ_10_2.json; NodeID: 713; Index: 80
