@@ -1,0 +1,7 @@
+Starting Client
+Batch_Length: 24
+Number_of_Entries: 33554430
+Entry_Size: 32 (bytes)
+Average_Indexing_time: 74 (ms)
+Average_Map_handover_time: 18733773 (us)
+Rate_of_failure: 0 (%)
