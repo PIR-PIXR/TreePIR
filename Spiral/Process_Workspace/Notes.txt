@@ -1,0 +1,13 @@
+docker system prune -a
+
+docker build -t spiral_toolchain .
+
+docker run -it \
+    -u root \
+    -v /home/quang/Desktop/Spiral:/tmp/Spiral \
+    -v /home/quang/Desktop/Spiral/Process_Workspace:/home/ubuntu/Process_Workspace \
+    --rm spiral_toolchain:latest \
+    /bin/bash -c "cd /tmp/Spiral; exec bash"
+    
+cd Evaluation
+python3 evaluate.py
