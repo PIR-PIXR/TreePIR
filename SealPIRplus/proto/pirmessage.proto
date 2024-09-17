@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package pir_message;
+option go_package="./pir_message";
+
+//protoc -I .  --grpc_out=. --plugin=protoc-gen-grpc=`which grpc_cpp_plugin` --proto_path=.  message.proto
+//protoc -I . --cpp_out=. message.proto
+
+
+//protoc -I . --grpc_out=. --plugin=protoc-gen-grpc=`which grpc_cpp_plugin` --proto_path=. pirmessage.proto
+//protoc -I . --cpp_out=. --proto_path=. pirmessage.proto
+
+message EmptyParam {}
+
+message DBInfoRequest{
+    string DBName = 1;
+}
+
+message DBInfo {
+    uint64 Num_of_items = 1;
+    uint64 Size_per_item = 2;  
+}
+
+message PirParam_Config_messsage{
+    bool Use_symmetric = 1;
+    bool Use_batching = 2;
+    bool Use_recursive_mod_switching = 3;
+    uint64 Num_of_items = 4;
+    uint64 Size_per_item = 5;
+    uint32 D = 6;
+    bytes EPParams = 7; //EncryptionParameters buffer encryption_parameters.bin    
+}
+
+message RequestData {
+    uint32 RequestId = 1;
+    uint32 ClientId = 2;
+    //bytes DB = 3;    
+    PirParam_Config_messsage PirConfig= 3;
+    bytes Gkey = 4;
+    bytes Query = 5;
+    string DBName = 6;     
+}
+
+message ResponseData {
+    uint32 RequestId = 1;
+    int32   Result = 2;
+    string Msg = 3;
+    bytes Data = 4;
+}
+service PIRService{
+    rpc GetDBInfo(DBInfoRequest) returns (DBInfo) {}
+    rpc GetPIR(RequestData) returns (ResponseData) {}
+}
